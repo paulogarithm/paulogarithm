@@ -4,7 +4,7 @@
 # Hi there 👋
 
 ## About me
-My name is paul and I am a Computer Science student at [Epitech](https://epitech.eu/) Technology.
+My name is Paul and I am a Computer Science student at [Epitech](https://epitech.eu/) Technology.
 
 
 ## Skills
