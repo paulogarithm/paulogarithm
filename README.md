@@ -9,11 +9,13 @@
 
 My name is Paul and I am a Computer Science student at <a href="https://epitech.eu/">Epitech</a> Technology. <br>
 
-I love new challenges, code stupid things and learn !
+I to code stupid things & learn anything.
 
-<br>
+Don't hesitate to talk to me on discord `@paulogarithm` !
 
-<h2 align="left">
+<!-- <br> -->
+
+<!-- <h2 align="left">
   My Skills
 </h2>
 <p align="left">
@@ -23,18 +25,18 @@ I love new challenges, code stupid things and learn !
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </p>
 
-<br>
+<br> -->
 
-<h2 align="left">
+<!-- <h2 align="left">
   My Subjects
 </h2>
 <p align="left">
   <a href="https://www.epitech.eu">
     <img src="https://custom-icon-badges.demolab.com/badge/Epitech-000000?style=for-the-badge&logo=epitech&logoColor=white" width="15%">
   </a>
-</p>
+</p> -->
 
-<br>
+<!-- <br> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogarithm&theme=github_dark&layout=compact&langs_count=6" position="absolute" width="40%">
