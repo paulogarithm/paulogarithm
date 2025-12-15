@@ -13,6 +13,8 @@ I to code stupid things & learn anything.
 
 Don't hesitate to talk to me on discord `@paulogarithm` !
 
+<a href="https://discordapp.com/users/395300488792506369"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+
 <!-- <br> -->
 
 <!-- <h2 align="left">
@@ -38,14 +40,14 @@ Don't hesitate to talk to me on discord `@paulogarithm` !
 
 <!-- <br> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogarithm&theme=github_dark&layout=compact&langs_count=6" position="absolute" width="40%">
-</p>
+</p> -->
 
-<h3 align="center">
+<!-- <h3 align="center">
   Contact Me
 </h3>
 <p align="center">
   <a href="https://discordapp.com/users/395300488792506369"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/paul-parisot"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-</p>
+</p> -->
