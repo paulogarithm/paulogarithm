@@ -2,18 +2,30 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulogarithm&show_icons=true&theme=radical)
 -->
 <h1 align='center'>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-<br>
+<div align=center>
+  My name is Paul and I am a Computer Science student at <a href="https://epitech.eu/">Epitech</a> Technology. (I also went to McGill)
+  
+  I love to code stupid things & learn anything.
 
-My name is Paul and I am a Computer Science student at <a href="https://epitech.eu/">Epitech</a> Technology. <br>
+  Go check my pinned repositories, be inspired, tell me what you think, ... <br/>
+  Code is meant to be shared and upgraded
+</div>
 
-I to code stupid things & learn anything.
+---
 
-Don't hesitate to talk to me on discord `@paulogarithm` !
+<div align=center>
+  Don't hesitate to talk to me on discord <code>@paulogarithm</code>
+  
+  <br/>
+  
+  <a href="https://discordapp.com/users/395300488792506369"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+  
+</div>
 
-<a href="https://discordapp.com/users/395300488792506369"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+---
 
 <!-- <br> -->
 
